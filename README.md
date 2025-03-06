@@ -4,8 +4,8 @@
 
 #### Associate Web Engineer at [Digital Impulse](https://github.com/digitalimpulse);
 
-- ⚙️ I use **daily**: `.php`, `.js`, `.ts`, `.html`, `.css`
-- 🌱 **Learning**: `.go`, `.py`
+- ⚙️ I use **daily**: `.php`, `.js`, `.ts`, `.html`, `.scss`
+- 🌱 **Learning**: `.go`, `.py`, `.c`, `.sql` _(boot.dev)_
 - 📫 How to **reach** me: jacogagarincanete@gmail.com
 - 🎹 My **nvim** config: https://github.com/jacocanete/nvim-config _(learning as a hobby)_
 
